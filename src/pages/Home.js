@@ -68,7 +68,7 @@ justify-between text-white '>
 
 <CodeBlocks position={'lg:flex-row'} heading={<div className='text-4xl font-semibold'>
 Unlock Your
-<HighlightText text={'Coading potential'}/>
+<HighlightText text={'Coding potential'}/>
 with our online Course
 </div>}
 subheading={"Our courses are designed and taught by industry experts who have years of experience in coding and are passionate about sharing their knowledge with you."}
@@ -100,7 +100,7 @@ backgroundGradient={<div className="codeblock1 absolute"></div>}
 
 <CodeBlocks position={'lg:flex-row-reverse'} heading={<div className='text-4xl font-semibold'>
 Start
-<HighlightText text={'Coading in seconds'}/>
+<HighlightText text={'Coding in seconds'}/>
 
 </div>}
 subheading={"Go ahead, give it a try. Our hands-on learning environment means you'll be writing real code from your very first lesson."}
