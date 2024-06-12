@@ -35,7 +35,7 @@ justify-between text-white '>
 
     <div className='text-center text-4xl font-semibold mt-7'>
         Empower Your Future With
-        <HighlightText text={'Coading Skills'} />
+        <HighlightText text={'Coding Skills'} />
     </div>
 
 
